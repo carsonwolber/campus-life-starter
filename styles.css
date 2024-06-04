@@ -1,0 +1,54 @@
+
+.event{
+    border: 2px solid black;
+    margin: 5px;
+}
+
+li {
+    float: left;
+    margin: 8px;
+}
+
+#banner {
+    background-color: seagreen;
+    color: black;
+    padding: 15px;
+}
+
+h1, h2, h3 { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    color: gray;
+}
+
+p { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+header {
+    margin: 5px;
+    padding: 5px;
+}
+
+nav {
+    margin: 5px;
+    padding: 15px;
+    border: 3px solid slateblue;
+}
+
+#organization { 
+    margin: 5px;
+    padding: 5px;
+}
+
+#events {
+    margin: 5px;
+    padding: 5px;
+}
+
+#news {
+    margin: 5px;
+    padding: 5px;
+}
